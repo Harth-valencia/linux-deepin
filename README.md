@@ -105,7 +105,15 @@ Paso 20: Después de que se aplicaron los cambios, se le pedirá que ingrese sus
 
 ![img1](imagenes/img21.PNG)
 
+Ahora exploremos, en la parte inferior podemos ver el icono del iniciador de aplicaciones, el icono de configuración, el calendario, etc.
 
+![img1](imagenes/img22.PNG)
+
+Abra la terminal e ingrese algunos comandos básicos.
+
+![img1](imagenes/img24.PNG)
+
+![img1](imagenes/img25.PNG)
 
 
 
